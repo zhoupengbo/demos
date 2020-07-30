@@ -1,7 +1,6 @@
 package com.zpb.example;
 
 import org.apache.commons.codec.binary.Base64;
-import org.apache.commons.codec.digest.DigestUtils;
 
 /**
  * @author zhoupb
